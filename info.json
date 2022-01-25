@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1038.5086999999999,
+    "videos": [
         "EL PRIMER TONTO - JOAN SEBASTIAN-yQZdhjlpJAU.mp4",
         "Conjunto Primavera 10 kilometros.mp4",
         "Estigia - El Punk Es Contracultura-ZdBShXzHcZo.mp4",
@@ -100,7 +101,5 @@
         "Benny Goodman Quartet - Moonglow (1936)-4dm3Ml9g_cs.mp4",
         "Billy Joel - You May Be Right (Official Audio)-ilsv0C1-aBw.mp4",
         "Blue Doll ~ Anita Carter  (1957)-Qs_sJgUZeP8.mp4"
-    ],
-    "id": "b1",
-    "total_size": 990.3987695312501
+    ]
 }
